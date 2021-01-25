@@ -1,0 +1,600 @@
+zheng0   fps:50.802
+2020-10-21-17-49
+zheng0   fps:40.142
+zheng1   fps:45.2125
+zheng2   fps:48.448
+zheng3   fps:46.5745
+zheng4   fps:47.8836
+2020-10-21-17-54
+zheng0   fps:57.0591
+zheng1   fps:47.7447
+zheng2   fps:45.071
+zheng3   fps:44.9359
+zheng4   fps:42.1832
+zheng5   fps:49.651
+zheng6   fps:59.0942
+zheng7   fps:46.5086
+zheng8   fps:42.7768
+zheng9   fps:53.2652
+2020-10-21-17-59
+zheng0   fps:47.2975
+2020-10-21-18-08
+zheng0   fps:57.8313
+zheng1   fps:48.6128
+zheng2   fps:48.8002
+zheng3   fps:53.6535
+zheng4   fps:58.0364
+2020-10-21-18-12
+zheng0   fps:51.9878
+zheng1   fps:53.0922
+zheng2   fps:51.3077
+zheng3   fps:53.2616
+zheng4   fps:45.671
+zheng5   fps:47.7283
+zheng6   fps:51.842
+zheng7   fps:50.633
+zheng8   fps:44.1677
+zheng9   fps:52.8633
+2020-10-21-18-17
+zheng0   fps:43.6688
+2020-10-21-18-27
+zheng0   fps:46.6795
+zheng1   fps:57.7305
+zheng2   fps:51.0261
+zheng3   fps:41.7939
+zheng4   fps:44.7748
+2020-10-21-18-31
+zheng0   fps:55.1999
+zheng1   fps:37.2763
+zheng2   fps:54.1314
+zheng3   fps:41.5254
+zheng4   fps:46.1718
+zheng5   fps:49.1607
+zheng6   fps:52.2098
+zheng7   fps:42.8612
+zheng8   fps:42.3196
+zheng9   fps:44.0658
+2020-10-21-18-36
+zheng0   fps:43.394
+2020-10-21-18-45
+zheng0   fps:39.0804
+zheng1   fps:39.2316
+zheng2   fps:48.9924
+zheng3   fps:43.5646
+zheng4   fps:52.3868
+2020-10-21-18-50
+zheng0   fps:40.9421
+zheng1   fps:39.246
+zheng2   fps:57.1981
+zheng3   fps:44.6424
+zheng4   fps:56.827
+zheng5   fps:41.0448
+zheng6   fps:45.4929
+zheng7   fps:53.4274
+zheng8   fps:43.1547
+zheng9   fps:51.5375
+2020-10-21-18-55
+zheng0   fps:40.2599
+2020-10-21-19-04
+zheng0   fps:48.3949
+zheng1   fps:41.4205
+zheng2   fps:40.8163
+zheng3   fps:54.8681
+zheng4   fps:43.4716
+2020-10-21-19-08
+zheng0   fps:51.0466
+zheng1   fps:32.6415
+zheng2   fps:55.6641
+zheng3   fps:49.8471
+zheng4   fps:56.7495
+zheng5   fps:44.0755
+zheng6   fps:56.445
+zheng7   fps:45.61
+zheng8   fps:49.2667
+zheng9   fps:57.4636
+2020-10-21-19-13
+zheng0   fps:47.8813
+2020-10-21-19-22
+zheng0   fps:51.3904
+zheng1   fps:44.5448
+zheng2   fps:54.432
+zheng3   fps:43.5834
+zheng4   fps:48.7424
+2020-10-21-19-27
+zheng0   fps:56.252
+zheng1   fps:52.6749
+zheng2   fps:49.2272
+zheng3   fps:42.315
+zheng4   fps:59.7795
+zheng5   fps:53.812
+zheng6   fps:53.0663
+zheng7   fps:53.58
+zheng8   fps:50.3241
+zheng9   fps:51.9634
+2020-10-21-19-32
+zheng0   fps:45.2889
+2020-10-21-19-41
+zheng0   fps:47.8051
+zheng1   fps:47.1268
+zheng2   fps:39.4352
+zheng3   fps:52.6282
+zheng4   fps:47.7067
+2020-10-21-19-45
+zheng0   fps:44.985
+zheng1   fps:46.7852
+zheng2   fps:44.6996
+zheng3   fps:50.757
+zheng4   fps:53.1121
+zheng5   fps:43.8052
+zheng6   fps:47.8585
+zheng7   fps:42.8891
+zheng8   fps:50.2208
+zheng9   fps:39.2146
+2020-10-21-19-50
+zheng0   fps:38.1651
+2020-10-21-19-59
+zheng0   fps:46.8244
+zheng1   fps:47.0947
+zheng2   fps:43.1694
+zheng3   fps:58.9849
+zheng4   fps:53.3807
+2020-10-21-20-04
+zheng0   fps:51.603
+zheng1   fps:49.0151
+zheng2   fps:45.4268
+zheng3   fps:44.9242
+zheng4   fps:40.5083
+zheng5   fps:58.4705
+zheng6   fps:52.7392
+zheng7   fps:47.6837
+zheng8   fps:51.0924
+zheng9   fps:39.1985
+2020-10-21-20-09
+zheng0   fps:47.4246
+2020-10-21-20-18
+zheng0   fps:42.6388
+zheng1   fps:53.7877
+zheng2   fps:44.678
+zheng3   fps:40.0542
+zheng4   fps:43.5383
+2020-10-21-20-23
+zheng0   fps:49.4552
+zheng1   fps:39.9559
+zheng2   fps:40.2459
+zheng3   fps:51.7238
+zheng4   fps:50.4579
+zheng5   fps:54.8822
+zheng6   fps:42.6727
+zheng7   fps:40.8743
+zheng8   fps:58.1186
+zheng9   fps:55.5721
+2020-10-21-20-27
+zheng0   fps:45.0363
+2020-10-21-20-37
+zheng0   fps:40.7538
+zheng1   fps:43.5993
+zheng2   fps:51.1722
+zheng3   fps:33.2833
+zheng4   fps:43.8507
+2020-10-21-20-41
+zheng0   fps:56.6244
+zheng1   fps:34.3762
+zheng2   fps:43.4584
+zheng3   fps:48.4609
+zheng4   fps:47.0376
+zheng5   fps:55.5602
+zheng6   fps:35.7711
+zheng7   fps:42.6831
+zheng8   fps:46.928
+zheng9   fps:54.6678
+2020-10-21-20-46
+zheng0   fps:24.7237
+2020-10-22-12-15
+zheng0   fps:26.2805
+zheng1   fps:28.0055
+zheng2   fps:20.1967
+2020-10-22-12-19
+zheng0   fps:31.369
+zheng1   fps:30.4834
+zheng2   fps:19.7348
+zheng3   fps:29.2849
+zheng4   fps:21.7791
+2020-10-22-12-24
+zheng0   fps:27.2763
+zheng1   fps:24.3495
+zheng2   fps:23.1971
+zheng3   fps:28.6951
+zheng4   fps:32.032
+zheng5   fps:24.2619
+zheng6   fps:29.4851
+2020-10-22-12-29
+zheng0   fps:23.142
+zheng1   fps:32.3975
+zheng2   fps:32.9099
+zheng3   fps:29.4479
+zheng4   fps:24.9543
+zheng5   fps:30.952
+zheng6   fps:27.8172
+zheng7   fps:18.6027
+zheng8   fps:23.0449
+2020-10-22-12-34
+zheng0   fps:32.3064
+zheng1   fps:33.2415
+zheng2   fps:30.4443
+zheng3   fps:23.421
+zheng4   fps:19.1707
+zheng5   fps:28.0622
+zheng6   fps:31.645
+zheng7   fps:32.7238
+zheng8   fps:22.4774
+zheng9   fps:27.6197
+2020-10-22-12-38
+zheng0   fps:32.7968
+2020-10-22-12-48
+zheng0   fps:28.3401
+zheng1   fps:24.7314
+zheng2   fps:21.064
+2020-10-22-12-52
+zheng0   fps:26.2888
+zheng1   fps:27.2923
+zheng2   fps:21.5655
+zheng3   fps:31.8994
+zheng4   fps:25.7993
+2020-10-22-12-57
+zheng0   fps:30.5967
+zheng1   fps:27.4627
+zheng2   fps:19.492
+zheng3   fps:26.0384
+zheng4   fps:27.7027
+zheng5   fps:17.2672
+zheng6   fps:30.1622
+2020-10-22-13-01
+zheng0   fps:24.1068
+zheng1   fps:28.9183
+zheng2   fps:26.075
+zheng3   fps:18.4906
+zheng4   fps:32.0735
+zheng5   fps:26.8916
+zheng6   fps:20.3103
+zheng7   fps:23.8526
+zheng8   fps:32.7357
+2020-10-22-13-06
+zheng0   fps:28.7917
+zheng1   fps:31.6213
+zheng2   fps:26.2994
+zheng3   fps:21.0478
+zheng4   fps:28.4144
+zheng5   fps:31.7357
+zheng6   fps:23.0221
+zheng7   fps:29.5557
+zheng8   fps:24.5091
+zheng9   fps:17.2208
+2020-10-22-13-11
+zheng0   fps:21.3159
+2020-10-22-13-21
+zheng0   fps:24.1043
+zheng1   fps:29.2792
+zheng2   fps:19.0476
+2020-10-22-13-26
+zheng0   fps:25.4886
+zheng1   fps:30.885
+zheng2   fps:25.2235
+zheng3   fps:24.6338
+zheng4   fps:24.6082
+2020-10-22-13-31
+zheng0   fps:28.8766
+zheng1   fps:26.2327
+zheng2   fps:29.1897
+zheng3   fps:25.8482
+zheng4   fps:24.1367
+zheng5   fps:33.0229
+zheng6   fps:21.5998
+2020-10-22-13-35
+zheng0   fps:23.5907
+zheng1   fps:20.893
+zheng2   fps:29.9762
+zheng3   fps:30.0355
+zheng4   fps:23.7405
+zheng5   fps:32.3506
+zheng6   fps:29.7167
+zheng7   fps:29.5157
+zheng8   fps:15.1922
+2020-10-22-13-40
+zheng0   fps:27.203
+zheng1   fps:28.3676
+zheng2   fps:24.2621
+zheng3   fps:33.1939
+zheng4   fps:21.245
+zheng5   fps:24.4665
+zheng6   fps:32.3834
+zheng7   fps:24.7004
+zheng8   fps:18.517
+zheng9   fps:31.8221
+2020-10-22-13-45
+zheng0   fps:24.6581
+2020-10-22-13-54
+zheng0   fps:24.3134
+zheng1   fps:30.7369
+zheng2   fps:23.4099
+2020-10-22-13-59
+zheng0   fps:24.0979
+zheng1   fps:25.4933
+zheng2   fps:26.1726
+zheng3   fps:22.5463
+zheng4   fps:27.127
+2020-10-22-14-03
+zheng0   fps:31.9909
+zheng1   fps:27.5684
+zheng2   fps:32.6854
+zheng3   fps:30.3282
+zheng4   fps:21.5514
+zheng5   fps:26.7755
+zheng6   fps:32.092
+2020-10-22-14-08
+zheng0   fps:21.206
+zheng1   fps:32.9535
+zheng2   fps:23.2182
+zheng3   fps:31.3564
+zheng4   fps:32.7951
+zheng5   fps:24.8061
+zheng6   fps:31.4587
+zheng7   fps:28.7584
+zheng8   fps:23.1402
+2020-10-22-14-13
+zheng0   fps:24.3779
+zheng1   fps:28.2493
+zheng2   fps:24.0037
+zheng3   fps:23.6127
+zheng4   fps:26.5773
+zheng5   fps:30.8266
+zheng6   fps:22.4702
+zheng7   fps:31.7316
+zheng8   fps:20.272
+zheng9   fps:28.0338
+2020-10-22-14-17
+zheng0   fps:24.112
+2020-10-22-14-27
+zheng0   fps:21.9258
+zheng1   fps:25.7571
+zheng2   fps:30.4737
+2020-10-22-14-30
+zheng0   fps:31.4579
+zheng1   fps:20.4029
+zheng2   fps:26.5314
+zheng3   fps:23.9951
+zheng4   fps:27.8873
+2020-10-22-14-35
+zheng0   fps:22.4419
+zheng1   fps:27.7784
+zheng2   fps:29.643
+zheng3   fps:29.8332
+zheng4   fps:32.7463
+zheng5   fps:18.6551
+zheng6   fps:15.8529
+2020-10-22-14-40
+zheng0   fps:32.3623
+zheng1   fps:31.1461
+zheng2   fps:25.2026
+zheng3   fps:25.933
+zheng4   fps:26.2329
+zheng5   fps:26.0968
+zheng6   fps:18.976
+zheng7   fps:31.8998
+zheng8   fps:20.5526
+2020-10-22-14-44
+zheng0   fps:28.4357
+zheng1   fps:24.4473
+zheng2   fps:31.0698
+zheng3   fps:32.1978
+zheng4   fps:23.7409
+zheng5   fps:29.1279
+zheng6   fps:31.5817
+zheng7   fps:31.0506
+zheng8   fps:22.2564
+zheng9   fps:20.3418
+2020-10-22-14-49
+zheng0   fps:25.854
+2020-10-22-14-58
+zheng0   fps:31.0128
+zheng1   fps:23.9039
+zheng2   fps:30.9024
+2020-10-22-15-02
+zheng0   fps:23.9336
+zheng1   fps:19.3234
+zheng2   fps:30.3046
+zheng3   fps:22.4088
+zheng4   fps:24.7923
+2020-10-22-15-06
+zheng0   fps:21.7736
+zheng1   fps:20.715
+zheng2   fps:31.7925
+zheng3   fps:32.119
+zheng4   fps:25.5708
+zheng5   fps:25.8544
+zheng6   fps:25.8821
+2020-10-22-15-11
+zheng0   fps:29.3411
+zheng1   fps:26.2613
+zheng2   fps:20.5719
+zheng3   fps:25.9943
+zheng4   fps:29.7149
+zheng5   fps:25.0776
+zheng6   fps:33.1268
+zheng7   fps:24.4063
+zheng8   fps:30.0775
+2020-10-22-15-16
+zheng0   fps:29.2181
+zheng1   fps:26.5919
+zheng2   fps:32.3519
+zheng3   fps:17.3867
+zheng4   fps:28.7299
+zheng5   fps:26.8592
+zheng6   fps:24.3097
+zheng7   fps:20.2865
+zheng8   fps:31.7812
+zheng9   fps:31.3323
+2020-10-22-15-21
+zheng0   fps:19.6774
+2020-10-22-15-31
+zheng0   fps:32.6163
+zheng1   fps:20.7497
+zheng2   fps:29.2246
+2020-10-22-15-36
+zheng0   fps:18.9114
+zheng1   fps:28.5874
+zheng2   fps:25.4129
+zheng3   fps:22.7395
+zheng4   fps:32.1711
+2020-10-22-15-40
+zheng0   fps:29.556
+zheng1   fps:24.7441
+zheng2   fps:22.9176
+zheng3   fps:31.9349
+zheng4   fps:29.3715
+zheng5   fps:33.1653
+zheng6   fps:23.1939
+2020-10-22-15-45
+zheng0   fps:21.7678
+zheng1   fps:19.6076
+zheng2   fps:30.6553
+zheng3   fps:27.8134
+zheng4   fps:25.0724
+zheng5   fps:26.5251
+zheng6   fps:30.678
+zheng7   fps:28.9191
+zheng8   fps:26.4291
+2020-10-22-15-49
+zheng0   fps:27.5954
+zheng1   fps:26.8715
+zheng2   fps:27.9541
+zheng3   fps:32.8249
+zheng4   fps:32.7042
+zheng5   fps:32.4589
+zheng6   fps:22.066
+zheng7   fps:32.3781
+zheng8   fps:26.0734
+zheng9   fps:16.6056
+2020-10-22-15-54
+zheng0   fps:23.0985
+2020-10-22-16-03
+zheng0   fps:28.6189
+zheng1   fps:23.4781
+zheng2   fps:22.3271
+2020-10-22-16-08
+zheng0   fps:23.1234
+zheng1   fps:24.3517
+zheng2   fps:31.4851
+zheng3   fps:21.984
+zheng4   fps:24.9284
+2020-10-22-16-12
+zheng0   fps:26.686
+zheng1   fps:26.6495
+zheng2   fps:29.9126
+zheng3   fps:22.9096
+zheng4   fps:31.7297
+zheng5   fps:21.0652
+zheng6   fps:18.87
+2020-10-22-16-17
+zheng0   fps:30.2161
+zheng1   fps:26.731
+zheng2   fps:29.2186
+zheng3   fps:21.1228
+zheng4   fps:25.958
+zheng5   fps:24.9131
+zheng6   fps:16.9359
+zheng7   fps:31.9231
+zheng8   fps:24.4183
+2020-10-22-16-21
+zheng0   fps:28.5992
+zheng1   fps:23.4525
+zheng2   fps:26.5108
+zheng3   fps:18.9125
+zheng4   fps:32.2301
+zheng5   fps:26.8281
+zheng6   fps:25.3815
+zheng7   fps:30.9108
+zheng8   fps:28.3732
+zheng9   fps:29.7816
+2020-10-22-16-26
+zheng0   fps:26.978
+2020-10-22-16-36
+zheng0   fps:32.4283
+zheng1   fps:23.6459
+zheng2   fps:21.1765
+2020-10-22-16-40
+zheng0   fps:19.0151
+zheng1   fps:30.1096
+zheng2   fps:26.7159
+zheng3   fps:31.6967
+zheng4   fps:25.3004
+2020-10-22-16-45
+zheng0   fps:25.6681
+zheng1   fps:30.9949
+zheng2   fps:32.652
+zheng3   fps:29.5611
+zheng4   fps:29.582
+zheng5   fps:19.2997
+zheng6   fps:31.5274
+2020-10-22-16-49
+zheng0   fps:22.9529
+zheng1   fps:24.4516
+zheng2   fps:21.539
+zheng3   fps:31.2938
+zheng4   fps:19.05
+zheng5   fps:29.4448
+zheng6   fps:32.8699
+zheng7   fps:33.2813
+zheng8   fps:26.0563
+2020-10-22-16-54
+zheng0   fps:22.8786
+zheng1   fps:21.7997
+zheng2   fps:31.2223
+zheng3   fps:31.9849
+zheng4   fps:30.2225
+zheng5   fps:23.6036
+zheng6   fps:30.6034
+zheng7   fps:32.0963
+zheng8   fps:32.1378
+zheng9   fps:26.1882
+2020-10-22-16-59
+zheng0   fps:29.8729
+2020-10-22-17-08
+zheng0   fps:28.5442
+zheng1   fps:21.7354
+zheng2   fps:31.766
+2020-10-22-17-13
+zheng0   fps:32.4793
+zheng1   fps:32.5953
+zheng2   fps:21.7282
+zheng3   fps:32.4426
+zheng4   fps:25.0925
+2020-10-22-17-17
+zheng0   fps:31.4424
+zheng1   fps:29.536
+zheng2   fps:25.2211
+zheng3   fps:21.3646
+zheng4   fps:23.775
+zheng5   fps:23.9339
+zheng6   fps:30.6872
+2020-10-22-17-22
+zheng0   fps:25.1238
+zheng1   fps:25.3452
+zheng2   fps:30.9853
+zheng3   fps:17.3412
+zheng4   fps:26.7899
+zheng5   fps:19.2373
+zheng6   fps:23.6698
+zheng7   fps:32.1133
+zheng8   fps:25.3779
+2020-10-22-17-26
+zheng0   fps:31.0031
+zheng1   fps:22.4183
+zheng2   fps:22.6198
+zheng3   fps:30.5715
+zheng4   fps:18.4003
+zheng5   fps:23.8276
+zheng6   fps:23.3145
+zheng7   fps:28.4639
+zheng8   fps:31.9869
+zheng9   fps:23.6032
+2020-10-22-17-31

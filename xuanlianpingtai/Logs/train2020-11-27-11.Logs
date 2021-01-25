@@ -1,0 +1,120 @@
+2020-11-27 11:23:30,522 - xunlian_login.py[line:15] - INFO: zz79用户的信息已获取完毕
+2020-11-27 11:23:30,534 - xunlian_login.py[line:15] - INFO: zz72用户的信息已获取完毕
+2020-11-27 11:23:30,553 - xunlian_login.py[line:15] - INFO: zz77用户的信息已获取完毕
+2020-11-27 11:23:30,616 - xunlian_login.py[line:15] - INFO: zz74用户的信息已获取完毕
+2020-11-27 11:23:30,621 - xunlian_login.py[line:15] - INFO: zz80用户的信息已获取完毕
+2020-11-27 11:23:30,622 - xunlian_login.py[line:15] - INFO: zz73用户的信息已获取完毕
+2020-11-27 11:23:30,625 - xunlian_login.py[line:15] - INFO: zz76用户的信息已获取完毕
+2020-11-27 11:23:30,680 - xunlian_login.py[line:15] - INFO: zz71用户的信息已获取完毕
+2020-11-27 11:23:30,698 - xunlian_login.py[line:15] - INFO: zz75用户的信息已获取完毕
+2020-11-27 11:23:30,723 - xunlian_login.py[line:15] - INFO: zz78用户的信息已获取完毕
+2020-11-27 11:23:46,032 - xunlian_login.py[line:168] - INFO: zz80获取信息失败HTTPSConnectionPool(host='ai-bg.aiebuy.cn', port=443): Max retries exceeded with url: /api/instance-manage/instance/list?page=1&per_page=1000 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7fcc71b07610>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:24:03,478 - xunlian_login.py[line:15] - INFO: zz91用户的信息已获取完毕
+2020-11-27 11:24:03,478 - xunlian_login.py[line:15] - INFO: zz91用户的信息已获取完毕
+2020-11-27 11:24:03,515 - xunlian_login.py[line:15] - INFO: zz99用户的信息已获取完毕
+2020-11-27 11:24:03,515 - xunlian_login.py[line:15] - INFO: zz99用户的信息已获取完毕
+2020-11-27 11:24:03,525 - xunlian_login.py[line:15] - INFO: zz93用户的信息已获取完毕
+2020-11-27 11:24:03,525 - xunlian_login.py[line:15] - INFO: zz93用户的信息已获取完毕
+2020-11-27 11:24:03,542 - xunlian_login.py[line:15] - INFO: zz92用户的信息已获取完毕
+2020-11-27 11:24:03,542 - xunlian_login.py[line:15] - INFO: zz92用户的信息已获取完毕
+2020-11-27 11:24:03,564 - xunlian_login.py[line:15] - INFO: zz98用户的信息已获取完毕
+2020-11-27 11:24:03,564 - xunlian_login.py[line:15] - INFO: zz98用户的信息已获取完毕
+2020-11-27 11:24:03,604 - xunlian_login.py[line:15] - INFO: zz97用户的信息已获取完毕
+2020-11-27 11:24:03,604 - xunlian_login.py[line:15] - INFO: zz97用户的信息已获取完毕
+2020-11-27 11:24:03,613 - xunlian_login.py[line:15] - INFO: zz94用户的信息已获取完毕
+2020-11-27 11:24:03,613 - xunlian_login.py[line:15] - INFO: zz94用户的信息已获取完毕
+2020-11-27 11:24:03,627 - xunlian_login.py[line:15] - INFO: zz96用户的信息已获取完毕
+2020-11-27 11:24:03,627 - xunlian_login.py[line:15] - INFO: zz96用户的信息已获取完毕
+2020-11-27 11:24:03,660 - xunlian_login.py[line:15] - INFO: zz95用户的信息已获取完毕
+2020-11-27 11:24:03,660 - xunlian_login.py[line:15] - INFO: zz95用户的信息已获取完毕
+2020-11-27 11:24:04,503 - xunlian_login.py[line:165] - INFO: zz91git信息获取完毕
+2020-11-27 11:24:04,503 - xunlian_login.py[line:165] - INFO: zz91git信息获取完毕
+2020-11-27 11:24:04,543 - xunlian_login.py[line:165] - INFO: zz99git信息获取完毕
+2020-11-27 11:24:04,543 - xunlian_login.py[line:165] - INFO: zz99git信息获取完毕
+2020-11-27 11:24:04,568 - xunlian_login.py[line:165] - INFO: zz98git信息获取完毕
+2020-11-27 11:24:04,568 - xunlian_login.py[line:165] - INFO: zz98git信息获取完毕
+2020-11-27 11:24:04,643 - xunlian_login.py[line:165] - INFO: zz93git信息获取完毕
+2020-11-27 11:24:04,643 - xunlian_login.py[line:165] - INFO: zz93git信息获取完毕
+2020-11-27 11:24:04,675 - xunlian_login.py[line:165] - INFO: zz92git信息获取完毕
+2020-11-27 11:24:04,675 - xunlian_login.py[line:165] - INFO: zz92git信息获取完毕
+2020-11-27 11:24:04,694 - xunlian_login.py[line:165] - INFO: zz94git信息获取完毕
+2020-11-27 11:24:04,694 - xunlian_login.py[line:165] - INFO: zz94git信息获取完毕
+2020-11-27 11:24:04,711 - xunlian_login.py[line:165] - INFO: zz97git信息获取完毕
+2020-11-27 11:24:04,711 - xunlian_login.py[line:165] - INFO: zz97git信息获取完毕
+2020-11-27 11:24:04,776 - xunlian_login.py[line:165] - INFO: zz95git信息获取完毕
+2020-11-27 11:24:04,776 - xunlian_login.py[line:165] - INFO: zz95git信息获取完毕
+2020-11-27 11:24:19,558 - xunlian_login.py[line:168] - INFO: zz96获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=240 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcc71b196a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:24:19,558 - xunlian_login.py[line:168] - INFO: zz96获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=240 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fcc71b196a0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:26:32,386 - xunlian_login.py[line:15] - INFO: zz71用户的信息已获取完毕
+2020-11-27 11:26:48,462 - xunlian_login.py[line:168] - INFO: zz71获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=224 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa63bd2e730>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:32:44,119 - xunlian_login.py[line:15] - INFO: zz78用户的信息已获取完毕
+2020-11-27 11:32:44,123 - xunlian_login.py[line:15] - INFO: zz79用户的信息已获取完毕
+2020-11-27 11:32:44,160 - xunlian_login.py[line:15] - INFO: zz73用户的信息已获取完毕
+2020-11-27 11:32:44,177 - xunlian_login.py[line:15] - INFO: zz71用户的信息已获取完毕
+2020-11-27 11:32:44,222 - xunlian_login.py[line:15] - INFO: zz74用户的信息已获取完毕
+2020-11-27 11:32:44,234 - xunlian_login.py[line:15] - INFO: zz77用户的信息已获取完毕
+2020-11-27 11:32:44,239 - xunlian_login.py[line:15] - INFO: zz72用户的信息已获取完毕
+2020-11-27 11:32:44,248 - xunlian_login.py[line:15] - INFO: zz76用户的信息已获取完毕
+2020-11-27 11:32:44,274 - xunlian_login.py[line:15] - INFO: zz75用户的信息已获取完毕
+2020-11-27 11:32:44,381 - xunlian_login.py[line:15] - INFO: zz80用户的信息已获取完毕
+2020-11-27 11:32:45,365 - xunlian_login.py[line:165] - INFO: zz71git信息获取完毕
+2020-11-27 11:32:45,471 - xunlian_login.py[line:165] - INFO: zz80git信息获取完毕
+2020-11-27 11:32:45,644 - xunlian_train.py[line:77] - INFO: zz71:开始构建训练镜像
+2020-11-27 11:32:45,751 - xunlian_train.py[line:77] - INFO: zz80:开始构建训练镜像
+2020-11-27 11:33:45,463 - xunlian_login.py[line:165] - INFO: zz73git信息获取完毕
+2020-11-27 11:33:45,504 - xunlian_login.py[line:165] - INFO: zz79git信息获取完毕
+2020-11-27 11:33:45,537 - xunlian_login.py[line:165] - INFO: zz77git信息获取完毕
+2020-11-27 11:33:45,658 - xunlian_login.py[line:165] - INFO: zz74git信息获取完毕
+2020-11-27 11:33:45,701 - xunlian_login.py[line:165] - INFO: zz72git信息获取完毕
+2020-11-27 11:33:45,734 - xunlian_login.py[line:165] - INFO: zz78git信息获取完毕
+2020-11-27 11:33:45,943 - xunlian_login.py[line:165] - INFO: zz75git信息获取完毕
+2020-11-27 11:33:45,957 - xunlian_login.py[line:165] - INFO: zz76git信息获取完毕
+2020-11-27 11:41:51,737 - xunlian_login.py[line:15] - INFO: zz77用户的信息已获取完毕
+2020-11-27 11:41:51,762 - xunlian_login.py[line:15] - INFO: zz75用户的信息已获取完毕
+2020-11-27 11:41:51,768 - xunlian_login.py[line:15] - INFO: zz72用户的信息已获取完毕
+2020-11-27 11:41:51,788 - xunlian_login.py[line:15] - INFO: zz80用户的信息已获取完毕
+2020-11-27 11:41:51,825 - xunlian_login.py[line:15] - INFO: zz73用户的信息已获取完毕
+2020-11-27 11:41:51,825 - xunlian_login.py[line:15] - INFO: zz76用户的信息已获取完毕
+2020-11-27 11:41:51,881 - xunlian_login.py[line:15] - INFO: zz78用户的信息已获取完毕
+2020-11-27 11:41:51,883 - xunlian_login.py[line:15] - INFO: zz71用户的信息已获取完毕
+2020-11-27 11:41:51,889 - xunlian_login.py[line:15] - INFO: zz79用户的信息已获取完毕
+2020-11-27 11:41:51,924 - xunlian_login.py[line:15] - INFO: zz74用户的信息已获取完毕
+2020-11-27 11:41:52,728 - xunlian_login.py[line:163] - INFO: zz75git信息获取完毕
+2020-11-27 11:42:07,489 - xunlian_login.py[line:166] - INFO: zz77获取信息失败HTTPSConnectionPool(host='ai-bg.aiebuy.cn', port=443): Max retries exceeded with url: /api/instance-manage/instance/info?id=248 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f7e5a3dd460>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:07,517 - xunlian_login.py[line:166] - INFO: zz78获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=251 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7e5a3da220>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:07,525 - xunlian_login.py[line:166] - INFO: zz76获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=252 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7e5a42f9d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:07,532 - xunlian_login.py[line:166] - INFO: zz72获取信息失败HTTPSConnectionPool(host='ai-bg.aiebuy.cn', port=443): Max retries exceeded with url: /api/instance-manage/instance/info?id=250 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f7e5a3e90d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:07,533 - xunlian_login.py[line:166] - INFO: zz79获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=246 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7e5a3da400>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:07,541 - xunlian_login.py[line:166] - INFO: zz73获取信息失败HTTPSConnectionPool(host='ai-bg.aiebuy.cn', port=443): Max retries exceeded with url: /api/instance-manage/instance/info?id=247 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f7e5a3eb0d0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:07,563 - xunlian_login.py[line:166] - INFO: zz71获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=224 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7e5a434fd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:07,606 - xunlian_login.py[line:166] - INFO: zz74获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=249 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7e5a42eaf0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:12,477 - xunlian_login.py[line:166] - INFO: zz80获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=227 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7e5a3d95e0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:42:32,787 - xunlian_train.py[line:38] - INFO: zz75git代码提交完成
+2020-11-27 11:42:33,089 - xunlian_train.py[line:77] - INFO: zz75:开始构建训练镜像
+2020-11-27 11:44:46,767 - xunlian_train.py[line:88] - WARNING: zz75:构建成功,时间花费123.66639041900635秒
+2020-11-27 11:45:06,781 - xunlian_train.py[line:101] - INFO: zz75发起训练
+2020-11-27 11:45:07,141 - xunlian_train.py[line:107] - INFO: zz75:发起训练成功
+2020-11-27 11:47:12,238 - xunlian_train.py[line:120] - WARNING: zz75:训练完成，时间花费125.09721660614014秒
+2020-11-27 11:55:19,679 - xunlian_login.py[line:15] - INFO: zz85用户的信息已获取完毕
+2020-11-27 11:55:19,693 - xunlian_login.py[line:15] - INFO: zz82用户的信息已获取完毕
+2020-11-27 11:55:19,724 - xunlian_login.py[line:15] - INFO: zz84用户的信息已获取完毕
+2020-11-27 11:55:19,730 - xunlian_login.py[line:15] - INFO: zz89用户的信息已获取完毕
+2020-11-27 11:55:19,756 - xunlian_login.py[line:15] - INFO: zz83用户的信息已获取完毕
+2020-11-27 11:55:19,765 - xunlian_login.py[line:15] - INFO: zz81用户的信息已获取完毕
+2020-11-27 11:55:19,779 - xunlian_login.py[line:15] - INFO: zz86用户的信息已获取完毕
+2020-11-27 11:55:19,796 - xunlian_login.py[line:15] - INFO: zz88用户的信息已获取完毕
+2020-11-27 11:55:19,830 - xunlian_login.py[line:15] - INFO: zz87用户的信息已获取完毕
+2020-11-27 11:55:19,883 - xunlian_login.py[line:15] - INFO: zz90用户的信息已获取完毕
+2020-11-27 11:55:35,336 - xunlian_login.py[line:163] - INFO: zz84获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=231 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb7a4990400>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:55:35,347 - xunlian_login.py[line:163] - INFO: zz82获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=229 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb7a4991790>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:55:35,348 - xunlian_login.py[line:163] - INFO: zz85获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=232 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb7a498d910>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:55:35,409 - xunlian_login.py[line:163] - INFO: zz81获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=228 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb7a4991fd0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:55:35,428 - xunlian_login.py[line:163] - INFO: zz83获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/info?id=230 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb7a498f820>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:55:40,200 - xunlian_login.py[line:163] - INFO: zz90获取信息失败HTTPConnectionPool(host='ai-bg.aiebuy.cn', port=80): Max retries exceeded with url: /api/instance-manage/instance/list (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb7a49387f0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2020-11-27 11:56:21,124 - xunlian_login.py[line:160] - INFO: zz89git信息获取完毕
+2020-11-27 11:57:00,810 - xunlian_train.py[line:38] - INFO: zz89git代码提交完成
+2020-11-27 11:57:01,105 - xunlian_train.py[line:77] - INFO: zz89:开始构建训练镜像
+2020-11-27 11:59:25,123 - xunlian_train.py[line:88] - WARNING: zz89:构建成功,时间花费134.01310539245605秒
+2020-11-27 11:59:45,137 - xunlian_train.py[line:101] - INFO: zz89发起训练
+2020-11-27 11:59:45,465 - xunlian_train.py[line:107] - INFO: zz89:发起训练成功
+2020-11-27 12:01:41,464 - xunlian_train.py[line:120] - WARNING: zz89:训练完成，时间花费115.9985704421997秒
